@@ -1,0 +1,407 @@
+{
+  "NETENGINE": {
+    "acronym": "NETENGINE",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen788103986"
+  },
+  "OIYOCY": {
+    "acronym": "OIYOCY",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787765269"
+  },
+  "SAMEDIATION": {
+    "acronym": "SAMEDIATION",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787764868"
+  },
+  "ID": {
+    "acronym": "ID",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0000442524"
+  },
+  "TORCHWOOD": {
+    "acronym": "TORCHWOOD",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787687346"
+  },
+  "RTP-CAPTURE-TOOL": {
+    "acronym": "RTP-CAPTURE-TOOL",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787490153"
+  },
+  "SIB-TARDIS": {
+    "acronym": "SIB-TARDIS",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787488807"
+  },
+  "TABVIEW": {
+    "acronym": "TABVIEW",
+    "domain": "fsd-network",
+    "sysgen": "sysgen0787315825"
+  },
+  "VADER": {
+    "acronym": "VADER",
+    "domain": "fsd-network",
+    "sysgen": "sysgen0787043486"
+  },
+  "VOICE-LOG-COLLECTOR": {
+    "acronym": "VOICE-LOG-COLLECTOR",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787771015"
+  },
+  "VOICELOG-CLCTR": {
+    "acronym": "VOICELOG-CLCTR",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787771015"
+  },
+  "NEO": {
+    "acronym": "NEO",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787490237"
+  },
+  "OMG-OSG-MARTENS-GAPS": {
+    "acronym": "OMG-OSG-MARTENS-GAPS",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0008000402"
+  },
+  "MAG-MAGIC": {
+    "acronym": "MAG-MAGIC",
+    "domain": "fsd-network",
+    "sysgen": "sysgen0008000359"
+  },
+  "NAPDW": {
+    "acronym": "NAPDW",
+    "domain": "fsd-network",
+    "sysgen": "sysgen0787210797"
+  },
+  "HOTSPOTS": {
+    "acronym": "HOTSPOTS",
+    "domain": "fsd-network",
+    "sysgen": "sysgen787558399"
+  },
+  "SCT": {
+    "acronym": "SCT",
+    "domain": "foundational",
+    "sysgen": "sysgen787427594"
+  },
+  "AUTH-SESSION-COUNTER": {
+    "acronym": "AUTH-SESSION-COUNTER",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787427593"
+  },
+  "MODEMSCAN": {
+    "acronym": "MODEMSCAN",
+    "domain": "foundational",
+    "sysgen": "sysgen787421376"
+  },
+  "TEMP-DENY-UTILITY": {
+    "acronym": "TEMP-DENY-UTILITY",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787411439"
+  },
+  "NET-API": {
+    "acronym": "NET-API",
+    "domain": "foundational",
+    "sysgen": "sysgen788001377"
+  },
+  "RADLOG": {
+    "acronym": "RADLOG",
+    "domain": "foundational",
+    "sysgen": "sysgen788001376"
+  },
+  "RTOOL": {
+    "acronym": "RTOOL",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen788169087"
+  },
+  "LTXVPD": {
+    "acronym": "LTXVPD",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen788249682"
+  },
+  "ASSISTEDGE-RPA": {
+    "acronym": "ASSISTEDGE-RPA",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787675027"
+  },
+  "FAT-LVLT": {
+    "acronym": "FAT-LVLT",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787490376"
+  },
+  "RADRPT": {
+    "acronym": "RADRPT",
+    "domain": "foundational",
+    "sysgen": "sysgen788001374"
+  },
+  "RADCRUNCH": {
+    "acronym": "RADCRUNCH",
+    "domain": "foundational",
+    "sysgen": "sysgen788001373"
+  },
+  "LARS-RADIUS": {
+    "acronym": "LARS-RADIUS",
+    "domain": "foundational",
+    "sysgen": "sysgen788001372"
+  },
+  "ROS": {
+    "acronym": "ROS",
+    "domain": "foundational",
+    "sysgen": "sysgen788001371"
+  },
+  "ROADMOVES": {
+    "acronym": "ROADMOVES",
+    "domain": "fsd-network",
+    "sysgen": "sysgen788028309"
+  },
+  "DISPATCH-SERVICES": {
+    "acronym": "DISPATCH-SERVICES",
+    "domain": "fsd-network",
+    "sysgen": "sysgen0787411957"
+  },
+  "DISPATCH-PORTAL": {
+    "acronym": "DISPATCH-PORTAL",
+    "domain": "fsd-network",
+    "sysgen": "sysgen787418868"
+  },
+  "MQS-MQSI-HUB": {
+    "acronym": "MQS-MQSI-HUB",
+    "domain": "nets-platform",
+    "sysgen": "sysgen0008000368"
+  },
+  "CUSTOMER-SMACKDOWN": {
+    "acronym": "CUSTOMER-SMACKDOWN",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787488709"
+  },
+  "GET-TN-INFO": {
+    "acronym": "GET-TN-INFO",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787488708"
+  },
+  "MEGAPHONELEVEL3COM": {
+    "acronym": "MEGAPHONELEVEL3COM",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787490204"
+  },
+  "FORTE": {
+    "acronym": "FORTE",
+    "domain": "nets-data",
+    "sysgen": "sysgen0787053549"
+  },
+  "SITETRACKER": {
+    "acronym": "SITETRACKER",
+    "domain": "fsd-network",
+    "sysgen": "sysgen787720128"
+  },
+  "AUTOPILOT-SA": {
+    "acronym": "AUTOPILOT-SA",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787719862"
+  },
+  "USOCT": {
+    "acronym": "USOCT",
+    "domain": "foundational",
+    "sysgen": "sysgen788171310"
+  },
+  "NPR": {
+    "acronym": "NPR",
+    "domain": "nets-data",
+    "sysgen": "sysgen788124077"
+  },
+  "ASSISTEDGE-RPA-DS": {
+    "acronym": "ASSISTEDGE-RPA-DS",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787721720"
+  },
+  "DSLOT": {
+    "acronym": "DSLOT",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787354748"
+  },
+  "NADO-MOE-REPORTS": {
+    "acronym": "NADO-MOE-REPORTS",
+    "domain": "foundational",
+    "sysgen": "sysgen0007840178"
+  },
+  "POLLDSLAM": {
+    "acronym": "POLLDSLAM",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0786832431"
+  },
+  "SPEED-CHECK-CHANGER": {
+    "acronym": "SPEED-CHECK-CHANGER",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787411440"
+  },
+  "AUTH-CHECK-UTILITY": {
+    "acronym": "AUTH-CHECK-UTILITY",
+    "domain": "foundational",
+    "sysgen": "sysgen0787411445"
+  },
+  "TRAFX": {
+    "acronym": "TRAFX",
+    "domain": "fsd-network",
+    "sysgen": "sysgen0787411435"
+  },
+  "NAPPER": {
+    "acronym": "NAPPER",
+    "domain": "fsd-network",
+    "sysgen": "sysgen0007865633"
+  },
+  "GLRECODE": {
+    "acronym": "GLRECODE",
+    "domain": "fsd-erp",
+    "sysgen": "sysgen788899841"
+  },
+  "AMOISSUETRACKER": {
+    "acronym": "AMOISSUETRACKER",
+    "domain": "fsd-erp",
+    "sysgen": "sysgen788908449"
+  },
+  "AQCB": {
+    "acronym": "AQCB",
+    "domain": "UNMAPPED",
+    "sysgen": "sysgen0000441828"
+  },
+  "CFA-DASH": {
+    "acronym": "CFA-DASH",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen788128308"
+  },
+  "ILEC": {
+    "acronym": "ILEC",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0786807748"
+  },
+  "CCDB": {
+    "acronym": "CCDB",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0786810704"
+  },
+  "ZONED": {
+    "acronym": "ZONED",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787051966"
+  },
+  "USOC-FID": {
+    "acronym": "USOC-FID",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787051968"
+  },
+  "CNLA": {
+    "acronym": "CNLA",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787051986"
+  },
+  "BVMS": {
+    "acronym": "BVMS",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787051988"
+  },
+  "ECANS": {
+    "acronym": "ECANS",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787052283"
+  },
+  "UGET": {
+    "acronym": "UGET",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787317025"
+  },
+  "WCM-RCMAC": {
+    "acronym": "WCM-RCMAC",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0786714313"
+  },
+  "GPONAT": {
+    "acronym": "GPONAT",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0787334908"
+  },
+  "DEFTSUP": {
+    "acronym": "DEFTSUP",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787757908"
+  },
+  "OOKLA-NA": {
+    "acronym": "OOKLA-NA",
+    "domain": "dx",
+    "sysgen": "sysgen788156651"
+  },
+  "ORKO": {
+    "acronym": "ORKO",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0008000407"
+  },
+  "COACHDB": {
+    "acronym": "COACHDB",
+    "domain": "nets-people",
+    "sysgen": "sysgen0787330926"
+  },
+  "PAID": {
+    "acronym": "PAID",
+    "domain": "nets-people",
+    "sysgen": "sysgen0787349713"
+  },
+  "NOTEGEN": {
+    "acronym": "NOTEGEN",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787600037"
+  },
+  "RX": {
+    "acronym": "RX",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0786691661"
+  },
+  "RXLITE": {
+    "acronym": "RXLITE",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen0786714164"
+  },
+  "RXMICRO": {
+    "acronym": "RXMICRO",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787470893"
+  },
+  "ROCI": {
+    "acronym": "ROCI",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787488741"
+  },
+  "RXNPS": {
+    "acronym": "RXNPS",
+    "domain": "fsd-network",
+    "sysgen": "sysgen0786913374"
+  },
+  "DWOPS": {
+    "acronym": "DWOPS",
+    "domain": "nets-data",
+    "sysgen": "sysgen0787333740"
+  },
+  "LMM-NSD": {
+    "acronym": "LMM-NSD",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787488742"
+  },
+  "CLARIFY-ADMIN": {
+    "acronym": "CLARIFY-ADMIN",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen787652982"
+  },
+  "APIGEE": {
+    "acronym": "APIGEE",
+    "domain": "dx",
+    "sysgen": "sysgen787551898"
+  },
+  "PSCC-TOOLS": {
+    "acronym": "PSCC-TOOLS",
+    "domain": "journey-ssfa",
+    "sysgen": "sysgen788215611"
+  },
+  "AOM": {
+    "acronym": "AOM",
+    "domain": "fsd-network",
+    "sysgen": "sysgen788129895"
+  }
+}
